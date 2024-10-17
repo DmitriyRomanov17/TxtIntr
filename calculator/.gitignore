@@ -1,0 +1,4 @@
+*.o
+$(TARGET)
+*.log
+Makefile
